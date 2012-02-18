@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'pokemon' target in the 'pokemon' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-#endif
