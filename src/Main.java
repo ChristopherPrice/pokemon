@@ -1,3 +1,5 @@
+import tests.ConsoleTest;
+
 /**
  * Main.java
  * 
@@ -11,6 +13,10 @@ public class Main {
 		
 		//display welcome message
 		System.out.println("Welcome\n");
+		
+		//basic print test
+		new ConsoleTest();
+		//print
 
 	}
 
